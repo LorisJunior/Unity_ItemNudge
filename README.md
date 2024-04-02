@@ -6,6 +6,10 @@
 - C#
 - Unity
 
+# Scripts
+[All Scripts](https://github.com/LorisJunior/Unity_ItemNudge/tree/main/Assets/Scripts).
+[Item Nudge Script](https://github.com/LorisJunior/Unity_ItemNudge/blob/main/Assets/Scripts/ItemNudge.cs).
+
 # Author
 
 Lourival Menezes do Rosario Junior
